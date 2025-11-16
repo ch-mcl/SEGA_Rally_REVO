@@ -1,0 +1,98 @@
+id,Car Name,slot,Compress,Description
+1,Mitsubishi Lancer Evolution IX,1,No,Unused
+2,Mitsubishi Lancer Evolution IX,2,No,Unused
+3,Mitsubishi Lancer Evolution IX,3,No,Unused
+4,Peugeot 205 Turbo 16,1,No,Unused
+5,Peugeot 205 Turbo 16,2,No,Unused
+6,Peugeot 205 Turbo 16,3,No,Unused
+7,Ford Focus WRC,1,No,Unused
+8,Ford Focus WRC,2,No,Unused
+9,Ford Focus WRC,3,No,Unused
+10,Skoda Fabia WRC,1,No,Unused
+11,Skoda Fabia WRC,2,No,Unused
+12,Skoda Fabia WRC,3,No,Unused
+13,Citroën Xsara,1,Yes,Used
+14,Subaru Impreza WRX Sti,3,No,Unused
+15,Subaru Impreza WRX Sti,2,No,Unused
+16,Citroën Xsara,1,No,Unused
+17,Citroën Xsara,2,No,Unused
+18,Citroën Xsara,1,No,Unused
+19,Lancia Delta HF,1,No,Unused
+20,Lancia Delta HF,2,No,Unused
+21,Lancia Delta HF,3,No,Unused
+22,Toyota Celica ST205,1,No,Unused
+23,Toyota Celica ST205,2,No,Unused
+24,Toyota Celica ST205,3,No,Unused
+25,-,-,-,MISSING
+26,-,-,-,MISSING
+27,-,-,-,MISSING
+28,-,-,-,MISSING
+29,Ford Escort RS Cosworth,1,Yes,
+30,Ford M151 'MUTT' Icelandic Racer,1,Yes,
+31,Lancia ECV,1,Yes,
+32,Lancia Stratos,1,Yes,Black
+33,Lancia Delta HF,1,Yes,
+34,Peugeot 205 Turbo 16,1,Yes,
+35,Peugeot 405 Turbo 16 Rally Raid,1,Yes,
+36,Toyota Celica ST205,1,Yes,
+37,McMillin Racing Car Dune Buggy,1,Yes,
+38,Citroën C2 Super 1600,1,Yes,
+39,Abarth Grande Punto S2000,1,Yes,
+40,Peugeot 206 RCC,1,Yes,Resemble Alitalia But too shiny
+41,Peugeot 207 S2000,1,Yes,
+42,BR Racing RST,1,Yes,
+43,RUF Rt 12,1,Yes,
+44,Skoda Octavia Kit Car,1,Yes,
+45,Toyota Celica (ZZT),1,Yes,
+46,Volkswagen Golf GTI,1,Yes,
+47,Race Car Andorra Racer,1,Yes,
+48,Ford Focus WRC,1,Yes,
+49,Hummer H3,1,Yes,
+50,McRae Enduro,1,Yes,
+51,Mitsubishi Concept-X,1,Yes,
+52,Mitsubishi Lancer Evolution IX,1,Yes,
+53,Peugeot 206 WRC,1,Yes,
+54,Skoda Fabia WRC,1,Yes,
+55,Subaru Impreza WRX Sti,1,Yes,
+58,Citroën C2 Super 1600,2,Yes,
+59,Citroën C2 Super 1600,3,Yes,Sonic The Hedgehog
+60,Citroën Xsara,2,Yes,
+61,Citroën Xsara,3,Yes,
+62,Abarth Grande Punto S2000,2,Yes,
+63,Abarth Grande Punto S2000,3,Yes,
+64,Ford Escort RS Cosworth,2,Yes,
+65,Ford Escort RS Cosworth,3,Yes,
+66,Ford Focus WRC,2,Yes,
+67,Ford Focus WRC,3,Yes,
+68,Lancia Stratos,2,Yes,Resemble Alitalia
+69,Lancia Stratos,3,Yes,
+70,Lancia Delta HF,2,Yes,
+71,Lancia Delta HF,3,Yes,
+72,Mitsubishi Lancer Evolution IX,2,Yes,
+73,Mitsubishi Lancer Evolution IX,3,Yes,
+74,Peugeot 205 Turbo 16,2,Yes,
+75,Peugeot 205 Turbo 16,3,Yes,
+76,Peugeot 206 WRC,2,Yes,
+77,Peugeot 206 WRC,3,Yes,
+78,Peugeot 207 S2000,2,Yes,
+79,Peugeot 207 S2000,3,Yes,
+80,Skoda Fabia WRC,2,Yes,
+81,Skoda Fabia WRC,3,Yes,
+82,Skoda Octavia Kit Car,2,Yes,
+83,Skoda Octavia Kit Car,3,Yes,
+84,Subaru Impreza WRX Sti,2,Yes,
+85,Subaru Impreza WRX Sti,3,Yes,
+86,Toyota Celica ST205,2,Yes,
+87,Toyota Celica ST205,3,Yes,
+88,Toyota Celica (ZZT),2,Yes,
+89,Toyota Celica (ZZT),3,Yes,Shadow The Hedgehog
+90,Volkswagen Golf GTI,2,Yes,
+91,Volkswagen Golf GTI,3,Yes,
+92,MINI Cooper S,1,Yes,
+93,Dune Buggy Pikes Peak Racer,1,Yes,
+94,Hot Wheels RD-04,1,Yes,HW Racing Drone
+95,Ford RS200E,1,Yes,
+96,Audi Sport quattro S1 Pikes Peak,1,Yes,
+97,Audi quattro,1,Yes,
+98,Audi quattro,2,Yes,
+99,Audi quattro,3,Yes,
